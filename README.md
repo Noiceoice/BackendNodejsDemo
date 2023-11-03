@@ -1,7 +1,7 @@
 # BackendNodejsDemo
-Tech stack
-Javascript
-Node.js
-Express.js
-Mongoose
+Tech stack \n
+Javascript \n
+Node.js \n
+Express.js \n
+Mongoose \n
 Bcrypt
